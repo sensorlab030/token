@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.2.2">
+<eagle version="8.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -1541,6 +1542,15 @@ Source: http://www.osram.convergy.de/</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="113,1,195.902,67.31,D1,,,,,"/>
+<approved hash="113,1,195.902,57.15,D2,,,,,"/>
+<approved hash="113,1,195.902,46.99,D3,,,,,"/>
+<approved hash="113,1,195.902,36.83,D4,,,,,"/>
+<approved hash="113,1,169.858,46.99,D6,,,,,"/>
+<approved hash="113,1,169.858,57.15,D7,,,,,"/>
+<approved hash="113,1,169.858,67.31,D8,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
